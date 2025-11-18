@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763227281747,
+      "tag": "0000_mighty_gorgon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763227414081,
+      "tag": "0001_lying_ultimates",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763228595962,
+      "tag": "0002_tough_psynapse",
+      "breakpoints": true
+    }
+  ]
+}
